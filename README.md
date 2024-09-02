@@ -1,6 +1,6 @@
 # EXNO2DS
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
+To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
@@ -23,7 +23,32 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+### Developed By: SETHUKKARASI C
+### Register Number: 212223230201
+
+![output](/01.png)<br><br><br>
+![output](/02.png)<br><br><br>
+![output](/03.png)<br><br><br>
+![output](/04.png)<br><br><br>
+![output](/05.png)<br><br><br>
+![output](/06.png)<br><br><br>
+![output](/07.png)<br><br><br>
+![output](/08.png)<br><br><br>
+![output](/09.png)<br><br><br>
+![output](/10.png)<br><br><br>
+![output](/11.png)<br><br><br>
+![output](/12.png)<br><br><br>
+![output](/13.png)<br><br><br>
+![output](/14.png)<br><br><br>
+![output](/16.png)<br><br><br>
+![output](/17.png)<br><br><br>
+![output](/18.png)<br><br><br>
+![output](/19.png)<br><br><br>
+![output](/20.png)<br><br><br>
+![output](/21.png)<br><br><br>
+![output](/22.png)<br><br><br>
+![output](/23.png)
+
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+We have performed Exploratory Data Analysis on the given data set successfully.
